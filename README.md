@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3-logo">
 <img src="https://static.vecteezy.com/ti/vetor-gratis/p3/2206155-responsive-design-icon-gr%C3%A1tis-vetor.jpg" alt="responsivo-logo" width=80px height=50px>
-<img src="assest/Desktop e celular.png">
+<img src="assest/Desktopecelular.png">
 
 
 
